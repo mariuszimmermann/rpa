@@ -1,4 +1,4 @@
-The developed **software bot** executes a task within the *rpachallenge.com* webseite. The key features are the following:
+The developed **software bot** was developed within the RPA framework and executes a task within the *rpachallenge.com* webseite. The key features are the following:
 - Opening of the website (https://rpachallengeocr.azurewebsites.net)
 - Starting the challenge 
 - Collection of information, which is shown in a table on the website
